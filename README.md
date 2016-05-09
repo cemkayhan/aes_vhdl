@@ -1,2 +1,2 @@
 # aes_vhdl
-Aes cipher in VHDL language.
+Aes algorithm in VHDL language. Supports 128, 192 & 256-bit.
