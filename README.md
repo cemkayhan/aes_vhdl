@@ -1,2 +1,2 @@
 # aes_vhdl
-Aes algorithm in VHDL.
+AES algorithm implemented in VHDL.
